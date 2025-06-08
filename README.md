@@ -16,11 +16,3 @@ The system collects heart rate data using an Arduino, processes it with Python, 
 
 *   **Arduino (`HeartRateMonitor.ino`):** Reads ECG data from a sensor.
 *   **Python (`heart_rate_analysis.py`):** Processes data, creates visualizations, and performs classification.
-
-## Learn More
-
-Check out the code comments for detailed explanations!  Feel free to contribute and expand upon this project.
-
-## License
-
-[Choose an appropriate open-source license]
